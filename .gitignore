@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local data files (optional - keep if you want others to see the data)
+# *.csv
+# *.xlsx
+
+# Environments
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
