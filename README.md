@@ -21,7 +21,7 @@ An end-to-end data analysis project investigating Nigeria's monetary trends, foc
 - `visualizations/`: Exported high-resolution charts for reporting.
 
 ##  How to Run
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+1. Clone the repo: `git clone https://github.com/bamideleadedeji/Nigeria-s-microeconomic-Landscape`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `analysis_notebook.ipynb` in Jupyter or VS Code.
 
